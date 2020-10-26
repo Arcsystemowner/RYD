@@ -9,11 +9,12 @@ body {
 	font-size: 11px;
 	color: #ffffff;
 	background: #4b4743;
+	zoom: 0.8;
 }
 @media  screen and (max-width: 425px){
 	body{
 	
-		zoom: 1.9;
+		zoom: 1.3;
 	}
 }
 

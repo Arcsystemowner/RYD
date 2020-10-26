@@ -13,7 +13,7 @@ body {
 @media  screen and (max-width: 425px){
 	body{
 	
-		zoom: 3;
+		zoom: 1.9;
 	}
 }
 
@@ -311,15 +311,17 @@ img {
 #footer {
 	clear: both;
 	width: 960px;
-	padding: 20px 0px 20px 0;
+	padding: 10% 0% ;
 	text-align: center;
 	border-top: 1px solid #25211e;
 	color: #999;
 	background-color: #111110;
+
 }
 
 #footer a{
 	color: #fff;
 	font-weight: normal;
+	font-size: 250%;
 }
 /* end of footer */

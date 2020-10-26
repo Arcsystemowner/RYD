@@ -13,9 +13,7 @@ body {
 @media  screen and (max-width: 425px){
 	body{
 	
-		width: 50%;
-		height: 100%;
-		zoom: 1;
+		zoom: 2;
 	}
 }
 

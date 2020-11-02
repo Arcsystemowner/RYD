@@ -12,4 +12,14 @@
 .headings{
   margin: 1% 49%;
 }
+@media (max-width: 425px) {
+  .carousel-control-next{
+
+    display: none;
+  }
+  .carousel-control-prev{
+  
+    display: none;
+  }
+}
 

@@ -12,7 +12,7 @@
 .headings{
   margin: 1% 49%;
 }
-@media (max-width: 425px) {
+@media (max-width: 450px) {
   .carousel-control-next{
 
     display: none;
